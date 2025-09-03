@@ -1,0 +1,67 @@
+
+    .main-header {
+        font-size: 3rem;
+        color: #1E3A8A;
+        font-weight: 700;
+        margin-bottom: 0.5rem;
+    }
+    .sub-header {
+        font-size: 1.2rem;
+        color: #4B5563;
+        margin-bottom: 2rem;
+    }
+    .stButton>button {
+        background-color: #1E40AF;
+        color: white;
+        font-weight: 600;
+        border: none;
+        padding: 0.5rem 1rem;
+        border-radius: 0.5rem;
+    }
+    .stButton>button:hover {
+        background-color: #1E3A8A;
+        color: white;
+    }
+    .defect-box {
+        background-color: rgba(255, 255, 255, 0.1);
+        border-left: 4px solid #F59E0B;
+        padding: 1rem;
+        border-radius: 0.25rem;
+        margin-bottom: 0.5rem;
+    }
+    .no-defect-box {
+        background-color: #D1FAE5;
+        border-left: 4px solid #10B981;
+        padding: 1rem;
+        border-radius: 0.25rem;
+        margin-bottom: 0.5rem;
+    }
+    .metric-card {
+        background-color: #F9FAFB;
+        padding: 1rem;
+        border-radius: 0.5rem;
+        box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+    }
+    .footer {
+        text-align: center;
+        padding: 1.5rem;
+        color: #6B7280;
+        font-size: 0.875rem;
+        margin-top: 2rem;
+        border-top: 1px solid #E5E7EB;
+    }
+
+
+    /* Main styles */
+    .stApp {
+        background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+        color: #ffffff;
+    }
+    
+    /* Headers */
+    h1, h2, h3 {
+        color: #ffffff !important;
+        font-weight: 700;
+    }
+    
+ 
